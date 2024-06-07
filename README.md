@@ -9,6 +9,7 @@ The flow of this repository would be as follows:
 Hoping that this helps fellow individuals in the field of data analytics. 
 
 Date Filters 
+
 Custom Date Filter - Upon a dashboard's pop up it should display data from a preset date range but would later allow a stakeholder to choose.
 
 
