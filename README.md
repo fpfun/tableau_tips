@@ -11,5 +11,11 @@ Hoping that this helps fellow individuals in the field of data analytics.
 Date Filters 
 
 [Custom Date Filter](https://github.com/fpfun/tableau_tips/blob/main/Custom_Date_Filter) - Upon a dashboard's pop up it should display data from a preset date range but would later allow a stakeholder to choose.
+[YTD, Last Month, This Month]
+
+
+[Cohorts Dataset]
+[POTW Analysis]
+
 
 
